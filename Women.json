@@ -1,0 +1,67 @@
+{
+    "Women":[
+        {
+            "category_id":2,
+            "section":"Hoodies and Sweatshirts",
+            "section_id":1,
+            "product_name":"Nike Sportswear Women's Over Oversized Pullover Hoodie",
+            "product_id":1,
+            "product_price":"4495",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/caa057f9-bc3e-479a-9981-90daa0dd4465/sportswear-over-oversized-pullover-hoodie-7s0xCm.png"
+        },
+        {
+            "category_id":2,
+            "section":"Hoodies and Sweatshirts",
+            "section_id":1,
+            "product_name":"Nike Sportswear Circa 50 Women's Fleece Hoodie",
+            "product_id":2,
+            "product_price":"6295",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ccf1f5a2-0f1e-4de7-8e28-ecfb85dce87e/sportswear-circa-50-fleece-hoodie-Q7Bn6J.png"
+        },
+        {
+            "category_id":2,
+            "section":"Hoodies and Sweatshirts",
+            "section_id":1,
+            "product_name":"Jordan Flight Women's Fleece Crew",
+            "product_id":3,
+            "product_price":"4495",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3625b012-aa72-42f1-951d-393e79dffc89/jordan-flight-fleece-crew-4H6dV8.png"
+        },
+        {
+            "category_id":2,
+            "section":"Tracksuits",
+            "section_id":2,
+            "product_name":"Nike Sportswear Women's Woven Air Max Day Jacket",
+            "product_id":1,
+            "product_price":"7295",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c87f88fb-1c38-4e8b-82fe-c7cc0f2123a9/sportswear-woven-air-max-day-jacket-X7c87P.png"
+        },
+        {
+            "category_id":2,
+            "section":"Tracksuits",
+            "section_id":3,
+            "product_name":" Nike One Luxe Women's Mid-Rise Printed Training Leggings",
+            "product_id":1,
+            "product_price":"5295",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ee9844a9-6e9e-486d-b66d-cbcede906eea/one-luxe-mid-rise-printed-training-leggings-P9BbFP.png"
+        },
+        {
+            "category_id":2,
+            "section":"Tracksuits",
+            "section_id":3,
+            "product_name":"JNike Sportswear Sport Shine Women's Mid-Rise Bike Shorts",
+            "product_id":2,
+            "product_price":"2195",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cb15909e-2a92-414d-aec5-3b49002daf15/sportswear-sport-shine-mid-rise-bike-shorts-T7fbMG.png"
+        },
+        {
+            "category_id":2,
+            "section":"Tracksuits",
+            "section_id":3,
+            "product_name":"Jordan x Shelflife ",
+            "product_id":3,
+            "product_price":"5695",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ff68992c-41c6-4cb6-af4f-d3a77b7af00d/jordan-shelflife-trousers-6Xrjqh.png"
+        }
+    ]
+}

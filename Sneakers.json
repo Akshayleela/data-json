@@ -1,0 +1,36 @@
+{
+    "Sneakers":[
+        {
+            "category_id":5,
+            "product_name":"Air Force 1 x UNDEFEATED",
+            "product_id":1,
+            "product_color":"Multicolour",
+            "product_price":"13995",
+            "product_image":"https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/343d59fc-2879-4b64-aeac-247b1051d982/air-force-1-x-undefeated-multicolour-dv5255-400-release-date.jpg"
+        },
+        {
+            "category_id":5,
+            "product_name":"Air Jordan 7",
+            "product_id":2,
+            "product_color":"Olive",
+            "product_price":"19295",
+            "product_image":"https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/d734a8c5-0c80-4cbb-bfc7-0e78416d364e/air-jordan-7-olive-dn9782-001-release-date.jpg"
+        },
+        {
+            "category_id":5,
+            "product_name":"Nike ISPA Sense Flyknit",
+            "product_id":3,
+            "product_color":"Black and Smoke Grey",
+            "product_price":"18395",
+            "product_image":"https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/bd7015aa-b85e-48d1-bf4e-2798d60431df/nike-ispa-sense-flyknit-black-and-smoke-grey-cw3203-003-release-date.jpg"
+        },
+        {
+            "category_id":5,
+            "product_name":"ACG Zoom Gaiadome GORE-TEX",
+            "product_id":4,
+            "product_color":"Trails End Brown",
+            "product_price":"19695",
+            "product_image":"https://static.nike.com/a/images/t_prod_ss/w_640,c_limit,f_auto/ab663c94-357c-4eaf-a856-bf71706ee117/acg-zoom-gaiadome-gore-tex-trails-end-brown-dd2858-200-release-date.jpg"
+        }
+    ]
+} 

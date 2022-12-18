@@ -1,0 +1,85 @@
+{
+    "Men":[
+        {
+            "category_id":1,
+            "section":"Tops and T-shirts",
+            "section_id":1,
+            "product_name":"Nike Sportswear Men's Crew-Neck Sweatshirt",
+            "product_id":1,
+            "product_price":"3995",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7bae9608-5064-4988-b732-ec438af7a85c/sportswear-crew-neck-sweatshirt-PxmHg3.png"  
+        },
+        {
+            "category_id":1,
+            "section":"Tops and T-shirts",
+            "section_id":1,
+            "product_name":"Nike Pro Dri-FIT Men's Short-Sleeve Top",
+            "product_id":2,
+            "product_price":"1995"  ,
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/99895589-3992-40a0-9dc0-9d2e7486a7ea/pro-dri-fit-short-sleeve-top-xrfWkz.png"
+        },
+        {
+            "category_id":1,
+            "section":"Tops and T-shirts",
+            "section_id":1,
+            "product_name":"Nike Forward Hoodie Men's Hoodie",
+            "product_id":3,
+            "product_price":"8995" ,
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/8acf4060-b122-43ad-851d-08808506d310/forward-hoodie-hoodie-qKbJFt.png" 
+        },
+        {
+            "category_id":1,
+            "section":"Shorts",
+            "section_id":2,
+            "product_name":"Nike Sportswear Men's Dri-FIT Shorts",
+            "product_id":1,
+            "product_price":"3295",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1cda6275-2cbc-435f-8795-64e755574502/sportswear-dri-fit-shorts-lF9mJW.png"  
+        },
+        {
+            "category_id":1,
+            "section":"Shorts",
+            "section_id":2,
+            "product_name":"Nike Dri-FIT Men's 23cm (approx.) Woven Training Shorts",
+            "product_id":2,
+            "product_price":"1795",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0aea9f44-56e8-4ba4-99a5-2d0b04cddace/dri-fit-woven-training-shorts-5f0FNk.png"  
+        },
+        {
+            "category_id":1,
+            "section":"Shorts",
+            "section_id":2,
+            "product_name":"Jordan Essentials Men's Woven Shorts",
+            "product_id":3,
+            "product_price":"2495",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c5244bf3-2c94-4bca-b41e-6ca4f25608b9/jordan-essentials-woven-shorts-dkWZFk.png"  
+        },
+        {
+            "category_id":1,
+            "section":"Accessories and Equipment",
+            "section_id":3,
+            "product_name":"Nike Sportswear Heritage86 Futura Washed",
+            "product_id":1,
+            "product_price":"1195",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c06b0ac1-0cba-44c2-a1a2-5e78cd14e183/sportswear-heritage86-futura-washed-hat-9zdC2m.png"  
+        },
+        {
+            "category_id":1,
+            "section":"Accessories and Equipment",
+            "section_id":3,
+            "product_name":"Nike Printed Stash Shoe Bag (13L)",
+            "product_id":2,
+            "product_price":"1595",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/76d6d142-d2c6-43e6-8494-990993098a87/printed-stash-shoe-bag-jJljcK.png"  
+        },
+        {
+            "category_id":1,
+            "section":"Accessories and Equipment",
+            "section_id":3,
+            "product_name":"Nike Everyday Plus Lightweight Ankle Split-Toe Socks",
+            "product_id":3,
+            "product_price":"1095",
+            "product_image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7e50e113-cb98-484b-8b9a-56c0c48e0092/everyday-plus-lightweight-ankle-split-toe-socks-3w224x.png"  
+        }
+    ]
+}

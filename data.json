@@ -1,0 +1,50 @@
+[
+        {
+            "id":1,
+            "gender":"male",
+            "name":"Nike Pegasus 39 Premium",
+            "price":"₹11,895",
+            "type":"Running Shoes",
+            "color":"white"
+        },
+        {
+            "id":2,
+            "gender":"male",
+            "name":"Nike ZoomX Streakfly Premium",
+            "price":"₹15,995",
+            "type":"Racing Shoes",
+            "color":"white"
+        },
+        {
+            "id":3,
+            "gender":"male",
+            "name":"Nike Zoom Fly 5 Premium",
+            "price":"₹15,995",
+            "type":"Running Shoes",
+            "color":"white"
+        },
+        {
+            "id":4,
+            "gender":"male",
+            "name":"Nike Vaporfly NEXT% 2",
+            "price":"₹19,695",
+            "type":"Running Shoes",
+            "color":"white,neon yellow"
+        },
+        {
+            "id":5,
+            "gender":"female",
+            "name":"Nike React Infinity Run Flyknit 3",
+            "price":"₹13,995",
+            "type":"Racing Shoes",
+            "color":"black,orange"
+        },
+        {
+            "id":6,
+            "gender":"female",
+            "name":"Nike ZoomX Vaporfly Next% 2",
+            "price":"₹19,695",
+            "type":"Racing Shoes",
+            "color":"orange,neon yellow"
+        }
+    ]                              
